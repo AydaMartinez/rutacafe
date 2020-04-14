@@ -1,0 +1,33 @@
+
+        .menu{
+            background-color: grey;
+            color: white;
+            
+        }
+        .menu a{
+            color: white;
+        }
+        .menu h1{
+            color: darkslategrey;
+        }
+        .menu1{
+            position: relative;
+        }
+        .menu1 a{
+            color: white;
+            position: relative;
+        }
+
+        .webrender{
+            background-image: url("coffee.jpg");
+            background-size: cover;
+        }
+
+        .centrado{
+            text-align: center;
+            color: white;
+        }
+
+        .cont{
+            text-align: center;
+        }
